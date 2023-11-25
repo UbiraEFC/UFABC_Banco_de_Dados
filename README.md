@@ -103,5 +103,9 @@ O projeto da disciplina de Banco de Dados da Universidade Federal do ABC para a 
 
 	>cpf (chave única)
 
+### Modelo Relacional
+<img src="images/db_anizete_turismo.png">
+
 ### Modelo Entidade Relacionamento
-<img src="images/ModeloER.jpg">(https://miro.com/welcomeonboard/YlRKWEFZRzBHb3IwZ2FRaFJGdVJ4WnZ3WEZkaldVOTZzbkVnY3JITDNabEFaZXFtMzRRMks0V1ExWkt0WWNkUnwzNDU4NzY0NTQ5OTI4NDc2MzE1fDI=?share_link_id=985976876113)
+<img src="images/ModeloER.jpg">
+
