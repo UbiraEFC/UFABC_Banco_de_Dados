@@ -1,5 +1,8 @@
 # Projeto Banco de Dados
 ✨ Projeto da diciplina de Banco de dados, ministrada pelo [Prof. Dr. FRANCISCO ISIDRO MASSETTO](https://www.ufabc.edu.br/ensino/docentes/francisco-isidro-massetto)
+✨ Aluno: Ubiratã Emiliano Fonseca Costa RA: 11201812211
+✨ Aluno: João Vitor Arruda de Bartolo RA: 11201812168
+
 
 O projeto da disciplina de Banco de Dados da Universidade Federal do ABC para a empresa de viagens "Anizete Turismo" abrange diversos aspectos cruciais para o funcionamento eficiente do sistema. A seguir, são detalhadas as etapas principais do desenvolvimento do sistema de banco de dados para atender às necessidades levantadas na entrevista.
 
