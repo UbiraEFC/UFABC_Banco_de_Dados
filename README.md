@@ -1,6 +1,8 @@
 # Projeto Banco de Dados
 ✨ Projeto da diciplina de Banco de dados, ministrada pelo [Prof. Dr. FRANCISCO ISIDRO MASSETTO](https://www.ufabc.edu.br/ensino/docentes/francisco-isidro-massetto)
+
 ✨ Aluno: Ubiratã Emiliano Fonseca Costa RA: 11201812211
+
 ✨ Aluno: João Vitor Arruda de Bartolo RA: 11201812168
 
 
